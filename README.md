@@ -1,58 +1,62 @@
-Car Management System Project Specification
-Team Members:Altin Karavidaj
-              
-car-management-system-issues
+# Car Management System Project Specification
 
-Overview
+## Team Members:
+- Altin Karavidaj
+
+## GitHub Repository:
+[car-management-system-issues](link_to_your_repository)
+
+## Overview
 Our project aims to develop a Car Management System for a company with employees who drive company cars. The system will provide functionalities for managing cars, drivers, trips, maintenance, and reporting. This specification outlines the features, site map, and mockups for our project.
 
-Features
-Car CRUD Operations
+## Features
 
-Create, Read, Update, and Delete cars from the system.
-Label: homework-1, Car CRUD
-Car Maintenance Tracking
+### Car CRUD Operations
+- Create, Read, Update, and Delete cars from the system.
+- Label: `homework-1`, `Car CRUD`
 
-Record and track maintenance activities for each car.
-Label: homework-1, Maintenance Tracking
+### Car Maintenance Tracking
+- Record and track maintenance activities for each car.
+- Label: `homework-1`, `Maintenance Tracking`
 
-Driver Management
-Add, View, Edit, and Remove driver details.
-Label: homework-1, Driver Management
-Trip Logging
+### Driver Management
+- Add, View, Edit, and Remove driver details.
+- Label: `homework-1`, `Driver Management`
 
-Allow drivers to log trips with details like distance, purpose, and duration.
-Label: homework-1, Trip Logging
+### Trip Logging
+- Allow drivers to log trips with details like distance, purpose, and duration.
+- Label: `homework-1`, `Trip Logging`
 
-Reporting Module
-Generate reports on car usage, maintenance history, and driver activities.
-Label: homework-1, Reporting Module
+### Reporting Module
+- Generate reports on car usage, maintenance history, and driver activities.
+- Label: `homework-1`, `Reporting Module`
 
-User Authentication
-Implement user authentication and authorization.
-Label: homework-1, User Authentication
+### User Authentication
+- Implement user authentication and authorization.
+- Label: `homework-1`, `User Authentication`
 
-Site Map
-Navigation Structure
-Home
-  Dashboard
-Cars
-  View Cars
-  Add Car
-  Edit Car
-Drivers
-  View Drivers
-  Add Driver
-  Edit Driver
-Trips
-  Log Trip
-  Trip History
-Maintenance
-  Maintenance Log
-  Add Maintenance
-Reports
-  Car Reports
-  Driver Reports
-Settings
-  User Profile
-  Logout
+## Site Map
+
+### Navigation Structure
+- **Home**
+  - Dashboard
+- **Cars**
+  - View Cars
+  - Add Car
+  - Edit Car
+- **Drivers**
+  - View Drivers
+  - Add Driver
+  - Edit Driver
+- **Trips**
+  - Log Trip
+  - Trip History
+- **Maintenance**
+  - Maintenance Log
+  - Add Maintenance
+- **Reports**
+  - Car Reports
+  - Driver Reports
+- **Settings**
+  - User Profile
+  - Logout
