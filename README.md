@@ -3,8 +3,6 @@
 ## Team Members:
 - Altin Karavidaj
 
-## GitHub Repository:
-[car-management-system-issues](link_to_your_repository)
 
 ## Overview
 Our project aims to develop a Car Management System for a company with employees who drive company cars. The system will provide functionalities for managing cars, drivers, trips, maintenance, and reporting. This specification outlines the features, site map, and mockups for our project.
